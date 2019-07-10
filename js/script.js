@@ -115,6 +115,48 @@
       quote:
         "Do not expect to be offered a chair when you are visiting a place where the chief sits on the floor.",
       author: "South African proverb"
+    },
+    {
+      quote:
+        "A family is like a forest, when you are outside it is dense, when you are inside you see that each tree has its place.",
+      author: "African proverb"
+    },
+    {
+      quote: "Home affairs are not talked about on the public square.",
+      author: "African proverb"
+    },
+    {
+      quote: "Do not let what you cannot do tear from your hands what you can.",
+      author: "Ashanti proverb"
+    },
+    {
+      quote: "Beautiful from behind, ugly in front.",
+      author: "Ugandan proverb"
+    },
+    {
+      quote: "The cook does not have to be a beautiful woman.",
+      author: "Shona proverb"
+    },
+    {
+      quote: "Beautiful words don’t put porridge in the pot.",
+      author: "Botswana proverb"
+    },
+    {
+      quote:
+        "She is beautiful; she has love, understands; she respects herself and others; everyone likes, loves and honors her; she is a goddess.",
+      author: "African proverb"
+    },
+    {
+      quote: "He who marries a beauty marries trouble.",
+      author: "African proverb"
+    },
+    {
+      quote: "It’s much easier to fall in love than to stay in love.",
+      author: "African proverb"
+    },
+    {
+      quote: "Pretend you are dead and you will see who really loves you.",
+      author: "African proverb"
     }
   ];
 
