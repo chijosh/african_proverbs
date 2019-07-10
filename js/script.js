@@ -157,6 +157,51 @@
     {
       quote: "Pretend you are dead and you will see who really loves you.",
       author: "African proverb"
+    },
+    {
+      quote: "Love has to be shown by deeds not words.",
+      author: "Swahili proverb"
+    },
+    {
+      quote:
+        "Marriage is like a groundnut; you have to crack it to see what is inside.",
+      author: "Ghanaian proverb"
+    },
+    {
+      quote: "To run is not necessarily to arrive.",
+      author: "Swahili proverb"
+    },
+    {
+      quote:
+        "Always being in a hurry does not prevent death, neither does going slowly prevent living.",
+      author: "Igbo proverb"
+    },
+    {
+      quote:
+        "The forest not only hides man’s enemies but its full of man’s medicine, healing power and food.",
+      author: "African proverb"
+    },
+    {
+      quote:
+        "The man who counts the bits of food he swallows is never satisfied.",
+      author: "African proverb"
+    },
+    {
+      quote: "Wine, women and food give gladness to the heart.",
+      author: "Ancient Egyptian proverb"
+    },
+    {
+      quote: "You cannot work for food when there is no food for work.",
+      author: "African proverb"
+    },
+    {
+      quote:
+        "The grasshopper which is always near its mother eats the best food.",
+      author: "Ghanaian proverb"
+    },
+    {
+      quote: "The impotent man does not eat spicy foods.",
+      author: "Congolese proverb"
     }
   ];
 
